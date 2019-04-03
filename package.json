@@ -1,0 +1,27 @@
+{
+  "name": "centiment",
+  "version": "1.0.0",
+  "description": "crypto trends and centiment analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakesee/centiment.git"
+  },
+  "keywords": [
+    "crypto",
+    "sentiment"
+  ],
+  "author": "Jake See",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakesee/centiment/issues"
+  },
+  "homepage": "https://github.com/jakesee/centiment#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
